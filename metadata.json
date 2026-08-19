@@ -1,0 +1,6 @@
+{
+  "name": "Pro Task Manager",
+  "description": "Full-stack Task Manager with Express backend, controllers, models, routes, and React client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
