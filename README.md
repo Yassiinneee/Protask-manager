@@ -17,7 +17,8 @@ A modern, secure, and scalable task management web application built with **Reac
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge\&logo=google\&logoColor=white)](https://ai.google.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/License-ISC-lightgrey?style=for-the-badge)](LICENSE)
-
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Defense in Depth](https://img.shields.io/badge/Security-Defense--in--Depth-DC2626?style=for-the-badge&logo=shield&logoColor=white)](https://csrc.nist.gov/glossary/term/defense_in_depth)
 </div>
 
 ---
