@@ -1,5 +1,7 @@
 # ProTask Manager — Professional Project Report
 
+**Public URL** : https://mern-task-manager-327408677300.europe-west2.run.app
+
 ## 1. Introduction
 
 ProTask Manager is a full-stack task management platform designed to provide users with a secure, efficient, and intelligent environment for organizing and tracking their work. The project was developed as a complete software engineering solution rather than as a simple CRUD application. It combines a modern React/Vite frontend, a Node.js and Express backend, MongoDB persistence, Redis caching, secure authentication, administrative controls, email verification, AI-assisted task generation, Docker-based infrastructure, Nginx reverse proxying, and Google Cloud deployment.
